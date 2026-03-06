@@ -12,7 +12,7 @@ I am a Junior at Iowa State University studying Aerosapce Engineering. I have ha
 - Set up the wiring and control system
 - Competed against other drone projects in a race
 
-![image](Screenshot 2026-03-06 124608.png)
+![image](https://github.com/tstoe/TimothyStoeckel-Portfolio/blob/main/Screenshot%202026-03-06%20124608.png?raw=true)
 
 ### Python Aircraft Properties Calculator
 - Wrote code for aircraft information of a wildlife protection drone
