@@ -20,7 +20,7 @@ I am a Junior at Iowa State University studying Aerosapce Engineering. I have ha
 - Produced graphs for aircraft analysis
 - Caluclated values for potential aircraft maneuvers
 
-![image](<img width="2559" height="1489" alt="Screenshot 2026-03-06 131206" src="https://github.com/user-attachments/assets/6ca09c3f-b059-431b-8fab-93d599368d77" />)
+![image](https://github.com/tstoe/TimothyStoeckel-Portfolio/blob/main/Screenshot%202026-03-06%20130939.png?raw=true)
 
 
 ### CyLaunch: Payload
