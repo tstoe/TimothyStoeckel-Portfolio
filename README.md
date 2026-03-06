@@ -29,7 +29,7 @@ I am a Junior at Iowa State University studying Aerosapce Engineering. I have ha
 - Soldered components and designed wiring diagrams for the system
 - Tested and optimized components for the payload
 
-![image](<img width="1574" height="859" alt="Screenshot 2026-03-06 130939" src="https://github.com/user-attachments/assets/b2c6ed4f-c07f-485e-ae0f-d8600943f84a" />)
+![image](https://github.com/tstoe/TimothyStoeckel-Portfolio/blob/main/Screenshot%202026-03-06%20130939.png?raw=true)
 
 ## Skills
 - Python
