@@ -2,7 +2,7 @@
 Engineering Portfolio
 
 ## About Me
-I am a Junior at Iowa State University studying Aerosapce Engineering. I have hands-on experience in mechanical design, data analysis, and system development. My interests focus on aerospace and mechanical systems, where I enjoy solving complex problems through design and computation. I am looking to apply my skills in an engineering role where I can contribute to real-world systems and continue learning. Outside of coursework, I build personal projects to deepen my technical knowledge.
+I am a Senior at Iowa State University studying Aerosapce Engineering. I have hands-on experience in mechanical design, data analysis, and system development. My interests focus on aerospace and mechanical systems, where I enjoy solving complex problems through design and computation. I am looking to apply my skills in an engineering role where I can contribute to real-world systems and continue learning. Outside of coursework, I build personal projects to deepen my technical knowledge.
 
 ## Projects
 
